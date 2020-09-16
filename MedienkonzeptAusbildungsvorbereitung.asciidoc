@@ -13,6 +13,26 @@
 
 == Sollbedingungen für Schülerinnen und Schüler
 
+=== software
+https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foundation und Upgrade, Klett,
+
+freie, offene oder proprietäre Programme folgender Anwendungen:
+
+https://en.wikipedia.org/wiki/Web_browser[web-browser],
+https://en.wikipedia.org/wiki/Text_editor[text-editor],
+https://en.wikipedia.org/wiki/Email_client[e-Mail],
+https://en.wikipedia.org/wiki/Word_processor[Textverarbeitung],
+https://en.wikipedia.org/wiki/Spreadsheet[Tabellenkalkulation],
+https://en.wikipedia.org/wiki/Database[Datenbank],
+https://en.wikipedia.org/wiki/Presentation_program[Präsentationsprogramm],
+https://en.wikipedia.org/wiki/Vector_graphics_editor[Vektorzeichenprogramm] für technische Zeichnungen
+https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm],
+https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm],
+https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management],
+
+(Beispielschnittmenge für proprietäre software => office365, Beispiel freier software => Fedora-Distribution)
+
+
 == Lernziele der Schülerinnen und Schüler
 
 Analyse von Daten hinsichtlich Validität, Relevanz und Effizienz, Positionierung und Gewichtung in Bezug auf Abgrenzung und Vernetzung,
