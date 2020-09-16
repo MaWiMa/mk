@@ -33,7 +33,7 @@ https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foun
 
 freie, offene oder proprietäre Programme folgender Anwendungen:
 
-[cols="1,>1",options="header",width=70%]
+[cols="1,1",options="header",width=70%]
 |=== 
 |Programm|Beispiel
 
@@ -49,7 +49,7 @@ Writer]
 |https://en.wikipedia.org/wiki/Vector_graphics_editor[Vektorzeichenprogramm] für technische Zeichnungen|https://qcad.org/[qcad]
 |https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm]|https://www.gimp.org/[gimp]
 |https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm]|https://www.scribus.net/[Scribus]
-|https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management]https://git-scm.com/video/what-is-version-control[git]|
+|https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management]|https://git-scm.com/video/what-is-version-control[git]
 
 |===
 
