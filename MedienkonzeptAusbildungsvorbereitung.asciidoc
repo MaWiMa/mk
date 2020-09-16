@@ -1,0 +1,27 @@
+// Date Format ISO 8601
+:notitle:
+:authors: Norbert Reschke
+:subject: Medienkonzept der Ausbildungsvorbereitung am Hans-Sachs-Berufskolleg
+:keywords: Hans-Sachs-Berufskolleg, Medienkonzept, Ausbildungsvorbereitung
+:numbered:
+:sectnumlevels: 5
+:toclevels: 5
+
+= Medienkonzept der Ausbildungsvorbereitung am Hans-Sachs-Berufskolleg, Oberhausen
+
+== Sollbedingungen für Lehrerinnen und Lehrer
+
+== Sollbedingungen für Schülerinnen und Schüler
+
+== Lernziele der Schülerinnen und Schüler
+
+Analyse von Daten hinsichtlich Validität, Relevanz und Effizienz, Positionierung und Gewichtung in Bezug auf Abgrenzung und Vernetzung,
+Differenzierung subjektiver und objektiver Daten, https://polizei.nrw/artikel/lagebild-jugendkriminalitaet-und-gefaehrdung[Internetidentität], https://www.ldi.nrw.de/mainmenu_Datenschutz/[Daten- und Persönlichkeitsschutz], Kommunikationsformen, Kompetenzförderung hinsichtlich formaler und technischer Anwendungen, Unterscheidung, Auswahl und Nutzung von Standardanwendungen (s. software), Strukturiertes Lernen, sammeln, schützen, aufbereiten und präsentieren von Informationen, Unterscheidung und Bedeutung von (Software-) Lizenzen wie
+https://de.wikipedia.org/wiki/Propriet%C3%A4r#Verschiedene_Bedeutungen[proprietär], https://www.gnu.org/licenses/license-list.en.html[frei] oder https://opensource.org/licenses[offen], und https://creativecommons.org/licenses/[urheberrechtlichen Jedermannlizenzen] hinsichtlich der eigenen Nutzung und hinsichtlich wirtschaftlicher und gesellschaftlicher Entwicklung von Organisationen und Gemeinschaften, Unterscheidung von personenbezogenen und unpersönlichen Daten der eigenen Person und der Daten von Dritten, Nutzung von https://bitbucket.org/mawima/avtbh/commits[Revisionskontrolle zur Entwicklung und Fortschreibung von Aufgaben oder des Portfolios], Auditive und visuelle Applizierung von just-in-time Translation mit dem Schwerpunkt Integration von Seiteneinsteigern, https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschlechtersensible-medienkompetenzfoerderung.html[Geschlechtersensible Medienkompetenzförderung], Kompetenzförderung im Sinne des KJFP NRW (s.u.), insbesondere Förderbereich II, Kulturelle Jugendbildung/Medienkompetenz, Medien- und Kulturland NRW
+
+== Curriculare Anbindung; geltende Erlasse:
+
+http://www.berufsbildung.nrw.de/cms/bildungsgaenge-bildungsplaene/ausbildungsvorbereitung-anlage-a/bildungsplaene/index.html[Bildungspläne für das Berufskolleg in Nordrhein-Westfalen; Bildungsgänge der Ausbildungsvorbereitung],
+
+https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=1&gld_nr=2&ugl_nr=2160&bes_id=38930&menu=1&sg=0&aufgehoben=N&keyword=kinder%20und%20jugendf%F6rderplan#det0
+[Kinder- und Jugendförderplan des Landes Nordrhein-Westfalen 2018-2022 Bekanntmachung des Ministeriums für Kinder, Familie, Flüchtlinge und Integration (08.05.2018)]
