@@ -37,6 +37,7 @@ echo "last changing editor of $file is: $author"
 echo "last changing date   of $file is: $date"
 echo "last changing time   of $file is: $time"
 echo ""
+
 #echo "sed is working"
 sed -i \
   -e 's/^\(\s*commit\s*:\s*\).*/\1'\"$commit'\"/' \
