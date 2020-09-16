@@ -1,6 +1,6 @@
 // Date Format ISO 8601
 //:notitle:
-:author: Norbert Reschke
+//:authors: Norbert Reschke
 :subject: Medienkonzept der Ausbildungsvorbereitung am Hans-Sachs-Berufskolleg
 :keywords: Hans-Sachs-Berufskolleg, Medienkonzept, Ausbildungsvorbereitung
 :numbered:
