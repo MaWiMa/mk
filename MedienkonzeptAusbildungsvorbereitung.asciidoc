@@ -11,20 +11,22 @@
 
 == Sollbedingungen für Lehrerinnen und Lehrer
 
+Lehrerinnen und Lehrer benötigen ein dienstliches smartphone und ein laptop und eine datensichere dienstliche Cloudplattform die dem Stand der Technik entspricht (z.B. iserv)
+
+Lehrerinnen und Lehrer benötigen den Zugriff auf Datenbanken und online-Fortbildungen zur Einschätzung von Kosten/Nutzen Verhältnis und Einsatzmöglichkeiten der verschiedenen Medien und Plattformen.
 
 == Sollbedingungen für Schülerinnen und Schüler
-
 
 === Ausstattung
 
 Schülerinnen und Schüler benötigen Räume, innerhalb und außerhalb der Schule die eine geschützte und geschlossene Lernumgebung mit einem Internetzugang über ein freies wlan und lan bieten.
 
 Neben den üblichen smartphones, die gut geeignet sind für digitale Lernkarteien, epub-Bücher und HTML-Texte,
-e-Mail und Kurznachrichten und Audiodateien oder Telefonate und Videokonferenzen,
+e-Mail und Kurznachrichten und Audiodateien oder Telefonate und Videokonferenzen
 
-benötigen Schülerinnen und Schüler laptops oder Arbeitsplatzrechner um sinnvoll mit zumindest mit Textverarbeitung, Tabellenkalkulation und Vektorgrafik arbeiten zu können.
+benötigen Schülerinnen und Schüler laptops oder Arbeitsplatzrechner um sinnvoll zumindest mit Textverarbeitung, Tabellenkalkulation und Vektorgrafik arbeiten zu können.
 
-Darüberhinaus benötigen die Schülerinnen und Schüler den Zugang zu Lernplattformen
+Darüberhinaus benötigen die Schülerinnen und Schüler den Zugang zu Lernplattformen (s.u.)
 
 === software
 https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foundation und Upgrade, Klett,
