@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm],
 https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm],
 https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management],
 
-(Beispielschnittmenge für proprietäre software => office365, Beispiel freier software => Fedora-Distribution)
+(Beispielschnittmenge für proprietäre software => https://products.office.com/de-de/business/office[office365], Beispiel freier software => https://getfedora.org/de/workstation/[Fedora-Distribution])
 
 
 == Lernziele der Schülerinnen und Schüler
