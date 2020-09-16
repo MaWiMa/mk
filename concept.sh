@@ -1,5 +1,5 @@
 #!/bin/bash
-# script to get structure and history set correct for protocoling conferences 
+# ./concept.sh MedienkonzeptAusbildungsvorbereitung.asciidoc
 
 file=$1
 yamlfile="CONCEPT-theme.yml"
@@ -50,10 +50,18 @@ sed -i \
 filebase=$(basename $file .asciidoc)
 hmtl=${filebase}.hmtl
 pdf=${filebase}.pdf
+epub=${filebase}.epub
+
 echo "asciidoctor starts working on $file"
 asciidoctor -a imagesdir=images $file
 echo ""
 echo "asciidoctor has made $hmtl"
+echo ""
+
+echo "asciidoctor-epub starts working on $file"
+asciidoctor-epub3 -a imagesdir=images $file
+echo ""
+echo "asciidoctor has made $epub"
 echo ""
 
 echo "asciidoctor-pdf starts working on $file"
@@ -77,4 +85,3 @@ sed -i \
   -e 's/^\(\s*time\s*:\s*\).*/\1'\"dummy'\"/' \
   $yamlfile
 #echo "sed is ready"
-
