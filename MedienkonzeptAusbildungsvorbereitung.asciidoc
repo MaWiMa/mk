@@ -33,17 +33,26 @@ https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foun
 
 freie, offene oder proprietäre Programme folgender Anwendungen:
 
-https://en.wikipedia.org/wiki/Web_browser[web-browser],
-https://en.wikipedia.org/wiki/Text_editor[text-editor],
-https://en.wikipedia.org/wiki/Email_client[e-Mail],
-https://en.wikipedia.org/wiki/Word_processor[Textverarbeitung],
-https://en.wikipedia.org/wiki/Spreadsheet[Tabellenkalkulation],
-https://en.wikipedia.org/wiki/Database[Datenbank],
-https://en.wikipedia.org/wiki/Presentation_program[Präsentationsprogramm],
-https://en.wikipedia.org/wiki/Vector_graphics_editor[Vektorzeichenprogramm] für technische Zeichnungen
-https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm],
-https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm],
-https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management],
+[cols="1,>1",options="header",width=70%]
+|=== 
+|Programm|Beispiel
+
+
+|https://en.wikipedia.org/wiki/Web_browser[web-browser]|https://www.mozilla.org/[firefox]
+|https://en.wikipedia.org/wiki/Text_editor[text-editor]|https://wiki.gnome.org/Apps/Gedit[gedit]
+|https://en.wikipedia.org/wiki/Email_client[e-Mail]|https://thunderbird.net[thunderbird]
+|https://en.wikipedia.org/wiki/Word_processor[Textverarbeitung]|https://www.libreoffice.org/discover/writer/[
+Writer]
+|https://en.wikipedia.org/wiki/Spreadsheet[Tabellenkalkulation]|https://www.libreoffice.org/discover/calc/[Calc]
+|https://en.wikipedia.org/wiki/Database[Datenbank]|https://www.sqlite.org/index.html[sqlite], https://www.postgresql.org/[postgres]
+|https://en.wikipedia.org/wiki/Presentation_program[Präsentationsprogramm]|https://www.libreoffice.org/discover/impress/[Impress]
+|https://en.wikipedia.org/wiki/Vector_graphics_editor[Vektorzeichenprogramm] für technische Zeichnungen|https://qcad.org/[qcad]
+|https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm]|https://www.gimp.org/[gimp]
+|https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm]|https://www.scribus.net/[Scribus]
+|https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management]https://git-scm.com/video/what-is-version-control[git]|
+
+|===
+
 
 (Beispielschnittmenge für proprietäre software => https://products.office.com/de-de/business/office[office365], Beispiel freier software => https://getfedora.org/de/workstation/[Fedora-Distribution])
 
