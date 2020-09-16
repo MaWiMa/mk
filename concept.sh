@@ -57,7 +57,7 @@ echo "asciidoctor has made $hmtl"
 echo ""
 
 echo "asciidoctor-pdf starts working on $file"
-asciidoctor-pdf -a pdf-style=CONCEPT -a pdf-stylesdir=. -a pdf-fontsdir=fonts -a imagesdir=images $file
+asciidoctor-pdf -a pdf-style=CONCEPT -a pdf-stylesdir=. -a pdf-fontsdir=fonts -a imagesdir=images -a author="Norbert Reschke" $file
 echo ""
 echo "asciidoctor has made $pdf"
 echo ""
