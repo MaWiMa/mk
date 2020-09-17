@@ -11,22 +11,21 @@
 
 == Sollbedingungen für Lehrerinnen und Lehrer
 
-Lehrerinnen und Lehrer benötigen ein dienstliches smartphone und ein laptop und eine datensichere dienstliche Cloudplattform die dem Stand der Technik entspricht (z.B. iserv)
+Lehrerinnen und Lehrer benötigen ein dienstliches Smartphone und einen Laptop und eine datensichere dienstliche Cloudplattform, die dem Stand der Technik entspricht (z.B. iserv).
 
-Lehrerinnen und Lehrer benötigen den Zugriff auf Datenbanken und online-Fortbildungen zur Einschätzung von Kosten/Nutzen Verhältnis und Einsatzmöglichkeiten der verschiedenen Medien und Plattformen.
+Lehrerinnen und Lehrer benötigen den Zugriff auf Datenbanken und Online-Fortbildungen zur Einschätzung von Kosten/Nutzen Verhältnis und Einsatzmöglichkeiten der verschiedenen Medien und Plattformen.
 
 == Sollbedingungen für Schülerinnen und Schüler
 
 === Ausstattung
 
-Schülerinnen und Schüler benötigen Räume, innerhalb und außerhalb der Schule die eine geschützte und geschlossene Lernumgebung mit einem Internetzugang über ein freies wlan und lan bieten.
+Schülerinnen und Schüler benötigen Räume innerhalb und außerhalb der Schule, die eine geschützte und geschlossene Lernumgebung mit einem Internetzugang über ein freies Wlan und Lan bieten.
 
-Neben den üblichen smartphones, die gut geeignet sind für digitale Lernkarteien, epub-Bücher und HTML-Texte,
-e-Mail und Kurznachrichten und Audiodateien oder Telefonate und Videokonferenzen
+Neben den üblichen Smartphones, die gut geeignet sind für digitale Lernkarteien, Bücher im Epub-Format und Texte im HTML-Format,
+E-Mail und Kurznachrichten und Audiodateien oder Telefonate und Videokonferenzen
+benötigen Schülerinnen und Schüler Laptops oder Arbeitsplatzrechner, um sinnvoll zumindest mit Textverarbeitung, Tabellenkalkulation und Vektorgrafik arbeiten zu können.
 
-benötigen Schülerinnen und Schüler laptops oder Arbeitsplatzrechner um sinnvoll zumindest mit Textverarbeitung, Tabellenkalkulation und Vektorgrafik arbeiten zu können.
-
-Darüberhinaus benötigen die Schülerinnen und Schüler den Zugang zu Lernplattformen (s.u.)
+Darüberhinaus benötigen die Schülerinnen und Schüler den Zugang zu Lernplattformen (s.u.).
 
 === software
 https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foundation und Upgrade, Klett,
@@ -38,9 +37,9 @@ freie, offene oder proprietäre Programme folgender Anwendungen:
 |Programm|Beispiel
 
 
-|https://en.wikipedia.org/wiki/Web_browser[web-browser]|https://www.mozilla.org/[firefox]
-|https://en.wikipedia.org/wiki/Text_editor[text-editor]|https://wiki.gnome.org/Apps/Gedit[gedit]
-|https://en.wikipedia.org/wiki/Email_client[e-Mail]|https://thunderbird.net[thunderbird]
+|https://en.wikipedia.org/wiki/Web_browser[Web-Browser]|https://www.mozilla.org/[firefox]
+|https://en.wikipedia.org/wiki/Text_editor[Text-Editor]|https://wiki.gnome.org/Apps/Gedit[gedit]
+|https://en.wikipedia.org/wiki/Email_client[E-Mail]|https://thunderbird.net[thunderbird]
 |https://en.wikipedia.org/wiki/Word_processor[Textverarbeitung]|https://www.libreoffice.org/discover/writer/[
 Writer]
 |https://en.wikipedia.org/wiki/Spreadsheet[Tabellenkalkulation]|https://www.libreoffice.org/discover/calc/[Calc]
@@ -54,7 +53,7 @@ Writer]
 |===
 
 
-(Beispielschnittmenge für proprietäre software => https://products.office.com/de-de/business/office[office365], Beispiel freier software => https://getfedora.org/de/workstation/[Fedora-Distribution])
+(Beispielschnittmenge für proprietäre Software => https://products.office.com/de-de/business/office[office365], Beispiel freier Software => https://getfedora.org/de/workstation/[Fedora-Distribution])
 
 Lernplattformen, wie https://card2brain.ch/[card2brain], https://www.binogi.de/[binogi], https://www.volkshochschule.de/verbandswelt/service-fuer-volkshochschulen/corona/index.php[VHS-Online]
 
@@ -62,24 +61,31 @@ Datenaustausch und Sicherung über https://hans-sachs-bk.schulserver.de/iserv/[i
 
 == Lernziele
 
-Analyse von Daten hinsichtlich Validität, Relevanz und Effizienz, Positionierung und Gewichtung in Bezug auf Abgrenzung und Vernetzung,
+. Analyse von Daten hinsichtlich Validität, Relevanz und Effizienz, Positionierung und Gewichtung in Bezug auf Abgrenzung und Vernetzung,
 
-Differenzierung subjektiver und objektiver Daten, https://polizei.nrw/artikel/lagebild-jugendkriminalitaet-und-gefaehrdung[Internetidentität], https://www.ldi.nrw.de/mainmenu_Datenschutz/[Daten- und Persönlichkeitsschutz], Kommunikationsformen, Kompetenzförderung hinsichtlich formaler und technischer Anwendungen,
+. Differenzierung subjektiver und objektiver Daten, https://polizei.nrw/artikel/lagebild-jugendkriminalitaet-und-gefaehrdung[Internetidentität], https://www.ldi.nrw.de/mainmenu_Datenschutz/[Daten- und Persönlichkeitsschutz], Kommunikationsformen, Kompetenzförderung hinsichtlich formaler und technischer Anwendungen,
 
-Unterscheidung, Auswahl und Nutzung von Standardanwendungen (s. software), strukturiertes Lernen, sammeln, schützen, aufbereiten und präsentieren von Informationen,
+. Unterscheidung, Auswahl und Nutzung von Standardanwendungen (s. software), strukturiertes Lernen, sammeln, schützen, aufbereiten und präsentieren von Informationen,
 
-Unterscheidung und Bedeutung von (Software-) Lizenzen wie
+. Unterscheidung und Bedeutung von (Software-) Lizenzen wie
 https://de.wikipedia.org/wiki/Propriet%C3%A4r#Verschiedene_Bedeutungen[proprietär], https://www.gnu.org/licenses/license-list.en.html[frei] oder https://opensource.org/licenses[offen], und https://creativecommons.org/licenses/[urheberrechtlichen Jedermannlizenzen] hinsichtlich der eigenen Nutzung und hinsichtlich wirtschaftlicher und gesellschaftlicher Entwicklung von Organisationen und Gemeinschaften, 
 
-Unterscheidung von personenbezogenen und unpersönlichen Daten der eigenen Person und der Daten von Dritten, Nutzung von https://bitbucket.org/mawima/avtbh/commits[Revisionskontrolle zur Entwicklung und Fortschreibung von Aufgaben oder des Portfolios],
+. Unterscheidung von personenbezogenen und unpersönlichen Daten der eigenen Person und der Daten von Dritten, Nutzung von https://bitbucket.org/mawima/avtbh/commits[Revisionskontrolle zur Entwicklung und Fortschreibung von Aufgaben oder des Portfolios],
 
-Auditive und visuelle Applizierung von just-in-time Translation mit dem Schwerpunkt Integration von Seiteneinsteigern,
+. auditive und visuelle Applizierung von just-in-time Translation mit dem Schwerpunkt Integration von Seiteneinsteigern,
 
-https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschlechtersensible-medienkompetenzfoerderung.html[Geschlechtersensible Medienkompetenzförderung], Kompetenzförderung im Sinne des KJFP NRW (s.u.), insbesondere Förderbereich II: Junge Menschen verstärkt an der Gestaltung der Gesellschaft beteiligen, Förderbereich III: Jugendförderung zukunftsfähig gestalten
+. https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschlechtersensible-medienkompetenzfoerderung.html[geschlechtersensible Medienkompetenzförderung],
 
+. Kompetenzförderung im Sinne des KJFP NRW (s.u.), insbesondere Förderbereich II: Junge Menschen verstärkt an der Gestaltung der Gesellschaft beteiligen, Förderbereich III: Jugendförderung zukunftsfähig gestalten
+
+. https://www.bmi.bund.de/DE/themen/sicherheit/kriminalitaetsbekaempfung-und-gefahrenabwehr/cyberkriminalitaet/cyberkriminalitaet-node.html[Cyberkriminalität],
+
+. Rechtsgeschäfte im Internet,
 
 == Curriculare Anbindung; geltende Erlasse:
 
 http://www.berufsbildung.nrw.de/cms/bildungsgaenge-bildungsplaene/ausbildungsvorbereitung-anlage-a/bildungsplaene/index.html[Bildungspläne für das Berufskolleg in Nordrhein-Westfalen; Bildungsgänge der Ausbildungsvorbereitung],
 
 https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=1&gld_nr=2&ugl_nr=2160&bes_id=38930&menu=1&sg=0&aufgehoben=N&keyword=kinder%20und%20jugendf%F6rderplan#det0[Kinder- und Jugendförderplan des Landes Nordrhein-Westfalen 2018-2022 Bekanntmachung des Ministeriums für Kinder, Familie, Flüchtlinge und Integration (08.05.2018)]
+
+https://medienkompetenzrahmen.nrw/medienkompetenzrahmen-nrw/[Medienkompetenzrahmen-NRW]
