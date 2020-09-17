@@ -60,7 +60,7 @@ Lernplattformen, wie https://card2brain.ch/[card2brain], https://www.binogi.de/[
 
 Datenaustausch und Sicherung über https://hans-sachs-bk.schulserver.de/iserv/[iserv]
 
-== Lernziele der Schülerinnen und Schüler
+== Lernziele
 
 Analyse von Daten hinsichtlich Validität, Relevanz und Effizienz, Positionierung und Gewichtung in Bezug auf Abgrenzung und Vernetzung,
 
@@ -75,7 +75,8 @@ Unterscheidung von personenbezogenen und unpersönlichen Daten der eigenen Perso
 
 Auditive und visuelle Applizierung von just-in-time Translation mit dem Schwerpunkt Integration von Seiteneinsteigern,
 
-https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschlechtersensible-medienkompetenzfoerderung.html[Geschlechtersensible Medienkompetenzförderung], Kompetenzförderung im Sinne des KJFP NRW (s.u.), insbesondere Förderbereich II, Kulturelle Jugendbildung/Medienkompetenz, Medien- und Kulturland NRW
+https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschlechtersensible-medienkompetenzfoerderung.html[Geschlechtersensible Medienkompetenzförderung], Kompetenzförderung im Sinne des KJFP NRW (s.u.), insbesondere Förderbereich II: Junge Menschen verstärkt an der Gestaltung der Gesellschaft beteiligen, Förderbereich III: Jugendförderung zukunftsfähig gestalten
+
 
 == Curriculare Anbindung; geltende Erlasse:
 
