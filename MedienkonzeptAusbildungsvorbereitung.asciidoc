@@ -27,9 +27,8 @@ benötigen Schülerinnen und Schüler Laptops oder Arbeitsplatzrechner, um sinnv
 
 Darüberhinaus benötigen die Schülerinnen und Schüler den Zugang zu Lernplattformen (s.u.).
 
-=== software
+=== Software
 https://de.wikipedia.org/wiki/EPUB[Epub]-Lehrbücher z.B. Englisch: Kickoff Foundation und Upgrade, Klett,
-
 freie, offene oder proprietäre Programme folgender Anwendungen:
 
 [cols="1,1",options="header",width=70%]
