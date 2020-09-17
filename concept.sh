@@ -48,21 +48,21 @@ sed -i \
 #echo "sed is ready"
 
 filebase=$(basename $file .asciidoc)
-hmtl=${filebase}.hmtl
+#hmtl=${filebase}.hmtl
 pdf=${filebase}.pdf
-epub=${filebase}.epub
+#epub=${filebase}.epub
 
-echo "asciidoctor starts working on $file"
-asciidoctor -a imagesdir=images $file
-echo ""
-echo "asciidoctor has made $hmtl"
-echo ""
+#echo "asciidoctor starts working on $file"
+#asciidoctor -a imagesdir=images $file
+#echo ""
+#echo "asciidoctor has made $hmtl"
+#echo ""
 
-echo "asciidoctor-epub starts working on $file"
-asciidoctor-epub3 -a imagesdir=images $file
-echo ""
-echo "asciidoctor has made $epub"
-echo ""
+#echo "asciidoctor-epub starts working on $file"
+#asciidoctor-epub3 -a imagesdir=images $file
+#echo ""
+#echo "asciidoctor has made $epub"
+#echo ""
 
 echo "asciidoctor-pdf starts working on $file"
 asciidoctor-pdf -a pdf-style=CONCEPT -a pdf-stylesdir=. -a pdf-fontsdir=fonts -a imagesdir=images -a author="Norbert Reschke" $file
