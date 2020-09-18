@@ -9,6 +9,13 @@
 
 = Medienkonzept der Ausbildungsvorbereitung am Hans-Sachs-Berufskolleg, Oberhausen
 
+cols="2,4", options="header"]
+|===
+|image:mk.png[qr-link zur pdf des Konzeptes auf github,150]
+|Unter diesem https://github.com/MaWiMa/mk/raw/master/MedienkonzeptAusbildungsvorbereitung.pdf[link]
+finden Sie dieses Konzept im PDF-Format
+|===
+
 == Sollbedingungen für Lehrerinnen und Lehrer
 
 Lehrerinnen und Lehrer benötigen ein dienstliches Smartphone und einen Laptop und eine datensichere dienstliche Cloudplattform, die dem Stand der Technik entspricht (z.B. iserv).
