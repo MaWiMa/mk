@@ -9,7 +9,7 @@
 
 = Medienkonzept der Ausbildungsvorbereitung am Hans-Sachs-Berufskolleg, Oberhausen
 
-cols="2,4", options="header"]
+[cols="2,4"]
 |===
 |image:mk.png[qr-link zur pdf des Konzeptes auf github,150]
 |Unter diesem https://github.com/MaWiMa/mk/raw/master/MedienkonzeptAusbildungsvorbereitung.pdf[link]
