@@ -85,3 +85,5 @@ sed -i \
   -e 's/^\(\s*time\s*:\s*\).*/\1'\"dummy'\"/' \
   $yamlfile
 #echo "sed is ready"
+
+#git push -u origin master

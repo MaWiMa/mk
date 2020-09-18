@@ -1,4 +1,4 @@
-# gitlog; look at protocol.sh
+# gitlog; look at concept.sh
 # commit="$(git log -n 1 --date=iso8601 --grep $file|grep commit|cut -d" " -f 2|cut -c-7)"
 # author="$(git log -n 1 --date=iso8601 --grep $file|grep -i author|cut -d" " -f 4)"
 # date="$(git log -n 1 --date=iso8601 --grep $file|grep -i date|cut -d" " -f 4)"
@@ -265,7 +265,7 @@ footer:
 #  valign: bottom
   recto:
     left:
-      content: 'Version: $gitlog-commit pass:q[<br>] letzte Änderung von: $gitlog-author pass:q[<br>] zuletzt bearbeitet am: $gitlog-date um: $gitlog-time'
+      content: 'Version: https://github.com/MaWiMa/mk/commit/$gitlog-commit[$gitlog-commit] pass:q[<br>] letzte Änderung von: $gitlog-author pass:q[<br>] zuletzt bearbeitet am: $gitlog-date um: $gitlog-time'
 # pass:q[<br>] -> work-arround to get line break in section, (https://www.methods.co.nz/asciidoc/userguide.html)
     right:
       content: '{page-number}/{page-count}'
