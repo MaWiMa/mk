@@ -34,8 +34,6 @@ freie, offene oder proprietäre Programme folgender Anwendungen:
 [cols="1,1",options="header",width=70%]
 |=== 
 |Programm|Beispiel
-
-
 |https://en.wikipedia.org/wiki/Web_browser[Web-Browser]|https://www.mozilla.org/[firefox]
 |https://en.wikipedia.org/wiki/Text_editor[Text-Editor]|https://wiki.gnome.org/Apps/Gedit[gedit]
 |https://en.wikipedia.org/wiki/Email_client[E-Mail]|https://thunderbird.net[thunderbird]
@@ -48,11 +46,11 @@ Writer]
 |https://en.wikipedia.org/wiki/Raster_graphics_editor[Pixelgrafikprogramm]|https://www.gimp.org/[gimp]
 |https://en.wikipedia.org/wiki/Desktop_publishing[Layoutprogramm]|https://www.scribus.net/[Scribus]
 |https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management]|https://git-scm.com/video/what-is-version-control[git]
-
 |===
 
-
-(Beispielschnittmenge für proprietäre Software => https://products.office.com/de-de/business/office[office365], Beispiel freier Software => https://getfedora.org/de/workstation/[Fedora-Distribution])
+- Beispielschnittmenge
+-- für proprietäre Software https://products.office.com/de-de/business/office[office365],
+-- für freie Software https://getfedora.org/de/workstation/[Fedora-Distribution])
 
 Lernplattformen, wie https://card2brain.ch/[card2brain], https://www.binogi.de/[binogi], https://www.volkshochschule.de/verbandswelt/service-fuer-volkshochschulen/corona/index.php[VHS-Online]
 
