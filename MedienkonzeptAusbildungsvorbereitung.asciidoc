@@ -49,8 +49,8 @@ Writer]
 |===
 
 - Beispielschnittmenge
--- für proprietäre Software https://products.office.com/de-de/business/office[office365],
--- für freie Software https://getfedora.org/de/workstation/[Fedora-Distribution])
+ - für proprietäre Software https://products.office.com/de-de/business/office[office365],
+ - für freie Software https://getfedora.org/de/workstation/[Fedora-Distribution])
 
 Lernplattformen, wie https://card2brain.ch/[card2brain], https://www.binogi.de/[binogi], https://www.volkshochschule.de/verbandswelt/service-fuer-volkshochschulen/corona/index.php[VHS-Online]
 
