@@ -48,9 +48,9 @@ Writer]
 |https://en.wikipedia.org/wiki/Distributed_version_control[Distributed Revision Control Management]|https://git-scm.com/video/what-is-version-control[git]
 |===
 
-- Beispielschnittmenge
- - für proprietäre Software https://products.office.com/de-de/business/office[office365],
- - für freie Software https://getfedora.org/de/workstation/[Fedora-Distribution])
+
+ - Beispiel proprietärer Software -> https://products.office.com/de-de/business/office[office365],
+ - Beispiel freier Software -> https://getfedora.org/de/workstation/[Fedora-Distribution])
 
 Lernplattformen, wie https://card2brain.ch/[card2brain], https://www.binogi.de/[binogi], https://www.volkshochschule.de/verbandswelt/service-fuer-volkshochschulen/corona/index.php[VHS-Online]
 
