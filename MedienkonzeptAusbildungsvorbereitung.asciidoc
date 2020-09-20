@@ -12,8 +12,8 @@
 [cols="2,4"]
 |===
 |image:mk.png[qr-link zur pdf des Konzeptes auf github,150]
-|Unter diesem https://github.com/MaWiMa/mk/raw/master/MedienkonzeptAusbildungsvorbereitung.pdf[link]
-finden Sie dieses Konzept im PDF-Format
+|Unter dem link https://github.com/MaWiMa/mk/raw/master/MedienkonzeptAusbildungsvorbereitung.pdf
+finden Sie dieses Konzept in der aktuellen Version im PDF-Format. 
 |===
 
 == Sollbedingungen für Lehrerinnen und Lehrer
