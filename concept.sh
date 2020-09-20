@@ -86,4 +86,5 @@ sed -i \
   $yamlfile
 #echo "sed is ready"
 
+# git commit $pdf
 #git push -u origin master
